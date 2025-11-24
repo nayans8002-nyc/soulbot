@@ -1,0 +1,5 @@
+streamlit
+ollama
+json
+pandas
+plotly.express
